@@ -1,3 +1,6 @@
+# Preview
+![Precios Libros - Aplicación React JS - Screenshot](https://i.imgur.com/jEKMeM2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
